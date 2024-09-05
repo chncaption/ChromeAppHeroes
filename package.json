@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "0.19.2",
     "download": "7.1.0",
-    "showdown": "1.9.1",
+    "showdown": "2.0.2",
     "chmodr": "1.2.0",
     "fs-extra": "8.1.0",
     "moment": "2.24.0",
